@@ -1,8 +1,16 @@
-# React + Vite
+This is an upgraded project in new technologies.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technology using are: 
+1. React Js
+2. Node Js 
 
-Currently, two official plugins are available:
+Made by: Suharshit singh.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is Social media platform for book readers, this platform provide user to chat with other users and to research on which book they are readig and what to read next. 
+
+Perks: 
+1. Book library
+2. Real time Chating
+3. Book Purchasing and selling.
+4. sharing posts.
+5. Reader Communinties.
